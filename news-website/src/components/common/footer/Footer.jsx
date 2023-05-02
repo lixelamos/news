@@ -8,11 +8,11 @@ const Footer = () => {
         <div className='container'>
           <div className='box logo'>
             <img src='../images/tech-logo-footer.png' alt='' />
-            <p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p>
+            <p>The Network is an amazing magazine Blogger theme that is easy to customize for your needs</p>
             <i className='fa fa-envelope'></i>
-            <span> hello@beautiful.com </span> <br />
+            <span> hello@wemaembe.com </span> <br />
             <i className='fa fa-headphones'></i>
-            <span> +91 60521488</span>
+            <span> +254 0760521488</span>
           </div>
           <div className='box'>
             <h3>SPORT</h3>
@@ -22,17 +22,17 @@ const Footer = () => {
             </div>
             <div className='item'>
               <img src='../images/hero/hero2.jpg' alt='' />
-              <p>Cespedes play the winning Baseball Game</p>
+              <p>Murang'a seals play the winning football Game</p>
             </div>
           </div>
           <div className='box'>
-            <h3>CRICKET</h3>
+            <h3>POLITICS</h3>
             <div className='item'>
-              <img src='../images/hero/hero3.jpg' alt='' />
-              <p>US Promises to give Intel aid to locate the soldiers</p>
+              <img src='../images/hero/hero5.jpg' alt='' />
+              <p>Ruto pushes for Bi-partisan talks</p>
             </div>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
+              <img src='../images/hero/hero6.jpg' alt='' />
               <p>Renewable energy dead as industry waits for Policy</p>
             </div>
           </div>
@@ -41,7 +41,7 @@ const Footer = () => {
             {/*<i className='fa fa-chevron-right'></i>*/}
             <ul>
               <li>
-                <span>Boxing</span> <label>(5)</label>
+                <span>Hockey</span> <label>(5)</label>
               </li>
               <li>
                 <span>Fashion</span> <label>(6)</label>
@@ -60,7 +60,7 @@ const Footer = () => {
         <div className='container flexSB'>
           <p>© all rights reserved</p>
           <p>
-            made with <i className='fa fa-heart'></i> by gorkhcoder
+            made with <i className='fa fa-heart'></i> by kipkorir
           </p>
         </div>
       </div>
